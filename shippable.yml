@@ -39,3 +39,7 @@ branches:
     only:
      - master
 #build_image: shippable/minv2:beta
+
+notifications:
+  email:
+    varsha@shippable.com
